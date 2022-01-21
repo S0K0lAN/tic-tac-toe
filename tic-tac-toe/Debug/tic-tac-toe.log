@@ -1,0 +1,16 @@
+﻿  main.cpp
+e:\vs 2019\tic-tac-toe\tic-tac-toe\main.cpp(69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\vs 2019\tic-tac-toe\tic-tac-toe\main.cpp(70): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\vs 2019\tic-tac-toe\tic-tac-toe\main.cpp(86): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\vs 2019\tic-tac-toe\tic-tac-toe\main.cpp(105): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\vs 2019\tic-tac-toe\tic-tac-toe\main.cpp(189): warning C4018: <: несоответствие типов со знаком и без знака
+e:\vs 2019\tic-tac-toe\tic-tac-toe\main.cpp(193): warning C4018: <: несоответствие типов со знаком и без знака
+  tic-tac-toe.vcxproj -> E:\VS 2019\tic-tac-toe\Debug\tic-tac-toe.exe

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3401c22-3381-4ee5-a82d-ffa85b8ef7ec": {
+      "ProjectGuid": "e3401c22-3381-4ee5-a82d-ffa85b8ef7ec",
+      "DisplayName": "tic-tac-toe",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
